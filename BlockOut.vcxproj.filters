@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="BlockOut.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Box.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="D3DApplication.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTimer.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeFactory.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelPole.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BlockOut.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Box.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Colors.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="D3DApplication.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="D3DDebug.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameTimer.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Globals.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelPole.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveDisposal.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeFactory.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vertex.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="nsc.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{f34196f1-1d63-4fc9-bcba-cde2360dff2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{e5dc041d-900a-4661-bc52-7d1e74ac81ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader files">
+      <UniqueIdentifier>{22af01d6-295c-416e-a976-603f52fcd2ec}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BlockOut.fx">
+      <Filter>Shader files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
